@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TubbyJ
 - 👀 I’m interested in music production, gaming & blockchain innovation.
-- 🌱 I’m currently learning HTML & React.js
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on anything that a noobie like me can get his hands on.
 - 📫 How to reach me ...
 
